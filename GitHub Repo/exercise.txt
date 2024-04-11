@@ -1,0 +1,11 @@
+1. A terminal is a text based interface uon the computer used to execute programs, files, and documents
+
+2. Git is a version control system that lets you manage and keep track of your source code history.
+GitHub is a cloud-based hosting service that lets you manage Git repositories
+
+3. Create a repository
+Select what you're going to fork over to GitHub
+Choose where/what you want to fork
+You have now forked a clone of the repository
+If you want to contribute your changes back to the original repository, 
+you can create a pull request from your fork to the original repository
